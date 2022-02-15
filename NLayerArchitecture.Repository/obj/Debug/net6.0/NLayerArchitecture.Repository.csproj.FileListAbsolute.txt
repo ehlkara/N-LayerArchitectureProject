@@ -1,0 +1,15 @@
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\bin\Debug\net6.0\NLayerArchitecture.Repository.deps.json
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\bin\Debug\net6.0\NLayerArchitecture.Repository.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\bin\Debug\net6.0\ref\NLayerArchitecture.Repository.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\bin\Debug\net6.0\NLayerArchitecture.Repository.pdb
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\bin\Debug\net6.0\NLayerArchitecture.Core.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\bin\Debug\net6.0\NLayerArchitecture.Core.pdb
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.csproj.AssemblyReference.cache
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.AssemblyInfoInputs.cache
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.AssemblyInfo.cs
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.csproj.CopyComplete
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\ref\NLayerArchitecture.Repository.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.pdb

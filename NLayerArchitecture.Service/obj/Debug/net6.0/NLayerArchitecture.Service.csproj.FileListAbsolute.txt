@@ -1,0 +1,17 @@
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\NLayerArchitecture.Service.deps.json
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\NLayerArchitecture.Service.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\ref\NLayerArchitecture.Service.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\NLayerArchitecture.Service.pdb
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\NLayerArchitecture.Core.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\NLayerArchitecture.Repository.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\NLayerArchitecture.Repository.pdb
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\bin\Debug\net6.0\NLayerArchitecture.Core.pdb
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.csproj.AssemblyReference.cache
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.AssemblyInfoInputs.cache
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.AssemblyInfo.cs
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.csproj.CoreCompileInputs.cache
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.csproj.CopyComplete
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\ref\NLayerArchitecture.Service.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Service\obj\Debug\net6.0\NLayerArchitecture.Service.pdb

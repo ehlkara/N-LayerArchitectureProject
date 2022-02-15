@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NLayerArchitecture.Web/1.0.0": {
+        "dependencies": {
+          "NLayerArchitecture.Service": "1.0.0"
+        },
+        "runtime": {
+          "NLayerArchitecture.Web.dll": {}
+        }
+      },
+      "NLayerArchitecture.Core/1.0.0": {
+        "runtime": {
+          "NLayerArchitecture.Core.dll": {}
+        }
+      },
+      "NLayerArchitecture.Repository/1.0.0": {
+        "dependencies": {
+          "NLayerArchitecture.Core": "1.0.0"
+        },
+        "runtime": {
+          "NLayerArchitecture.Repository.dll": {}
+        }
+      },
+      "NLayerArchitecture.Service/1.0.0": {
+        "dependencies": {
+          "NLayerArchitecture.Repository": "1.0.0"
+        },
+        "runtime": {
+          "NLayerArchitecture.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NLayerArchitecture.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayerArchitecture.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayerArchitecture.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayerArchitecture.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

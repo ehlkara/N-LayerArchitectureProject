@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ehlul\\source\\repos\\NLayerApp\\NLayerArchitecture.Core\\NLayerArchitecture.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\N-LayerArchitectureProject\\NLayerArchitecture.Core\\NLayerArchitecture.Core.csproj",
       "projectName": "NLayerArchitecture.Core",
-      "projectPath": "C:\\Users\\ehlul\\source\\repos\\NLayerApp\\NLayerArchitecture.Core\\NLayerArchitecture.Core.csproj",
+      "projectPath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\N-LayerArchitectureProject\\NLayerArchitecture.Core\\NLayerArchitecture.Core.csproj",
       "packagesPath": "C:\\Users\\ehlul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ehlul\\source\\repos\\NLayerApp\\NLayerArchitecture.Core\\obj\\",
+      "outputPath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\N-LayerArchitectureProject\\NLayerArchitecture.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
