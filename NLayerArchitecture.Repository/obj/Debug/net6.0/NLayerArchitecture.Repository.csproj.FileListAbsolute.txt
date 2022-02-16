@@ -13,3 +13,5 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchite
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\ref\NLayerArchitecture.Repository.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.pdb
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\bin\Debug\net6.0\NLayerArchitecture.Repository.runtimeconfig.json
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Repository\obj\Debug\net6.0\NLayerArchitecture.Repository.genruntimeconfig.cache
