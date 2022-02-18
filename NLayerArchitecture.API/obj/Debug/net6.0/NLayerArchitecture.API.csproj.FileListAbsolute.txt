@@ -66,3 +66,6 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchite
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

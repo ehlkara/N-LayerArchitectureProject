@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2kZLcUVBeTF0HZIk8uUQ3vnA/LzlyizdSDA5Dn3mfht82PeXn7eMRkqopdVGCNU64vSQhqbJSvZzZ+3c9KvARA==",
+  "dgSpecHash": "38g0JhOgQGTlamDrwhGgZdqn3TEZpNoq5ltWF8GgL3Dob4otO5Ho4ii+WBRnvjSa8hnfivN0Kvu/uE1o++AQSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\N-LayerArchitectureProject\\NLayerArchitecture.API\\NLayerArchitecture.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ehlul\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ehlul\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\ehlul\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\ehlul\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\ehlul\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\ehlul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ehlul\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ehlul\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
