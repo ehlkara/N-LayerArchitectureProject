@@ -2,6 +2,7 @@
 using NLayerArchitecture.Core.Repositories;
 using NLayerArchitecture.Core.Services;
 using NLayerArchitecture.Core.UnitOfWorks;
+using NLayerArchitecture.Service.Exceptions;
 using System.Linq.Expressions;
 
 namespace NLayerArchitecture.Service.Services
@@ -43,7 +44,13 @@ namespace NLayerArchitecture.Service.Services
 
         public async Task<T> GetByIdAsync(int id)
         {
-            return await _repository.GetByIdAsync(id);
+            var hasProduct =  await _repository.GetByIdAsync(id);
+
+            if(hasProduct == null)
+            {
+                throw new NotFoundException($"{typeof(T).Name}({id}) does not exist");
+            }
+            return hasProduct;
         }
 
         public async Task RemoveAsync(T entity)
