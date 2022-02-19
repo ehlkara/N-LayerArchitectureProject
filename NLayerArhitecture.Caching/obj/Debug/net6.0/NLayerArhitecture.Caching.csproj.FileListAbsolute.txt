@@ -9,4 +9,3 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitec
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\NLayerArhitecture.Caching.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\ref\NLayerArhitecture.Caching.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\NLayerArhitecture.Caching.pdb
-C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\NLayerArhitecture.Caching.csproj.AssemblyReference.cache
