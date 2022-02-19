@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "38g0JhOgQGTlamDrwhGgZdqn3TEZpNoq5ltWF8GgL3Dob4otO5Ho4ii+WBRnvjSa8hnfivN0Kvu/uE1o++AQSQ==",
+  "dgSpecHash": "zav9HKMLpd4lkeHbPjaGskWsaYRlble94DkqLYwKZkqwxb5wHJd3PitVuS0+1tP+ZrPTyaMR8RkqLx35YXJXAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\N-LayerArchitectureProject\\NLayerArchitecture.API\\NLayerArchitecture.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ehlul\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\ehlul\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\ehlul\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ehlul\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\ehlul\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
