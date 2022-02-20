@@ -7,6 +7,7 @@ using NLayerArchitecture.Repository.Repositories;
 using NLayerArchitecture.Repository.UnitOfWorks;
 using NLayerArchitecture.Service.Mapping;
 using NLayerArchitecture.Service.Services;
+using NLayerArhitecture.Caching;
 using System.Reflection;
 using Module = Autofac.Module;
 namespace NLayerArchitecture.API.Modules
@@ -30,6 +31,8 @@ namespace NLayerArchitecture.API.Modules
 
             builder.RegisterAssemblyTypes(apiAssembly, repoAssembly, serviceAssembly).Where(x => x.Name.EndsWith("Service"))
                 .AsImplementedInterfaces().InstancePerLifetimeScope();
+
+            builder.RegisterType<ProductServiceWithCaching>().As<IProductService>();
         }
     }
 }

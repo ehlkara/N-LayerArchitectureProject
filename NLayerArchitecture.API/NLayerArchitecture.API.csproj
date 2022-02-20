@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NLayerArchitecture.Service\NLayerArchitecture.Service.csproj" />
+    <ProjectReference Include="..\NLayerArhitecture.Caching\NLayerArhitecture.Caching.csproj" />
   </ItemGroup>
 
 </Project>

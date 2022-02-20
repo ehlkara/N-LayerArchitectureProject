@@ -28,7 +28,7 @@ namespace NLayerArhitecture.Caching
 
             if(!_memoryCache.TryGetValue(CacheProductKey, out _))
             {
-                _memoryCache.Set(CacheProductKey, _repository.GetProductWithCategory());
+                _memoryCache.Set(CacheProductKey, _repository.GetProductWithCategory().Result);
             }
         }
 

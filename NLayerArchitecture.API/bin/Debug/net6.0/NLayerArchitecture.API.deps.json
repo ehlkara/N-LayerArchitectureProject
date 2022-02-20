@@ -10,7 +10,7 @@
         "dependencies": {
           "Autofac.Extensions.DependencyInjection": "7.2.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.1",
-          "NLayerArchitecture.Service": "1.0.0",
+          "NLayerArhitecture.Caching": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -572,6 +572,14 @@
         "runtime": {
           "NLayerArchitecture.Service.dll": {}
         }
+      },
+      "NLayerArhitecture.Caching/1.0.0": {
+        "dependencies": {
+          "NLayerArchitecture.Service": "1.0.0"
+        },
+        "runtime": {
+          "NLayerArhitecture.Caching.dll": {}
+        }
       }
     }
   },
@@ -977,6 +985,11 @@
       "sha512": ""
     },
     "NLayerArchitecture.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayerArhitecture.Caching/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
