@@ -5,7 +5,6 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchite
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\NLayerArchitecture.Web.deps.json
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\NLayerArchitecture.Web.runtimeconfig.json
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\NLayerArchitecture.Web.dll
-C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\ref\NLayerArchitecture.Web.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\NLayerArchitecture.Web.pdb
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\NLayerArchitecture.Core.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\NLayerArchitecture.Repository.dll
@@ -273,3 +272,4 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchite
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\Autofac.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.Web\obj\Debug\net6.0\refint\NLayerArchitecture.Web.dll

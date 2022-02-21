@@ -1,6 +1,5 @@
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\bin\Debug\net6.0\NLayerArhitecture.Caching.deps.json
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\bin\Debug\net6.0\NLayerArhitecture.Caching.dll
-C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\bin\Debug\net6.0\ref\NLayerArhitecture.Caching.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\bin\Debug\net6.0\NLayerArhitecture.Caching.pdb
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\NLayerArhitecture.Caching.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\NLayerArhitecture.Caching.AssemblyInfoInputs.cache
@@ -17,3 +16,4 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitec
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\bin\Debug\net6.0\NLayerArchitecture.Core.pdb
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\bin\Debug\net6.0\NLayerArchitecture.Repository.pdb
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\NLayerArhitecture.Caching.csproj.CopyComplete
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArhitecture.Caching\obj\Debug\net6.0\refint\NLayerArhitecture.Caching.dll

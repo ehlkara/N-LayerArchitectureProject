@@ -4,7 +4,6 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchite
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\NLayerArchitecture.API.deps.json
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\NLayerArchitecture.API.runtimeconfig.json
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\NLayerArchitecture.API.dll
-C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\ref\NLayerArchitecture.API.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\NLayerArchitecture.API.pdb
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -73,3 +72,4 @@ C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchite
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\NLayerArhitecture.Caching.dll
 C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\bin\Debug\net6.0\NLayerArhitecture.Caching.pdb
+C:\Users\ehlul\OneDrive\Belgeler\GitHub\N-LayerArchitectureProject\NLayerArchitecture.API\obj\Debug\net6.0\refint\NLayerArchitecture.API.dll

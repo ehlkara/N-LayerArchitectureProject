@@ -5,15 +5,20 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayerArchitecture.Core", "NLayerArchitecture.Core\NLayerArchitecture.Core.csproj", "{8D45B459-38E1-4A79-9898-1BF9C2A6D6D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerArchitecture.Repository", "NLayerArchitecture.Repository\NLayerArchitecture.Repository.csproj", "{F7BADFA1-66EF-4BC0-86DE-27BAE4ABE743}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayerArchitecture.Repository", "NLayerArchitecture.Repository\NLayerArchitecture.Repository.csproj", "{F7BADFA1-66EF-4BC0-86DE-27BAE4ABE743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerArchitecture.Service", "NLayerArchitecture.Service\NLayerArchitecture.Service.csproj", "{4C666B67-F420-4D5C-9F41-6BED028D756D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayerArchitecture.Service", "NLayerArchitecture.Service\NLayerArchitecture.Service.csproj", "{4C666B67-F420-4D5C-9F41-6BED028D756D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerArchitecture.API", "NLayerArchitecture.API\NLayerArchitecture.API.csproj", "{2F97C3EB-A696-4B4C-A67C-46472F176E78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayerArchitecture.API", "NLayerArchitecture.API\NLayerArchitecture.API.csproj", "{2F97C3EB-A696-4B4C-A67C-46472F176E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerArchitecture.Web", "NLayerArchitecture.Web\NLayerArchitecture.Web.csproj", "{38759C39-D57E-416A-A8D0-E20C2C4A1D4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayerArchitecture.Web", "NLayerArchitecture.Web\NLayerArchitecture.Web.csproj", "{38759C39-D57E-416A-A8D0-E20C2C4A1D4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerArhitecture.Caching", "NLayerArhitecture.Caching\NLayerArhitecture.Caching.csproj", "{6128FBBD-0B26-42F1-B0BD-038511C59328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLayerArhitecture.Caching", "NLayerArhitecture.Caching\NLayerArhitecture.Caching.csproj", "{6128FBBD-0B26-42F1-B0BD-038511C59328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2BB844E8-6DD1-42C1-83FB-7D4576164869}"
+	ProjectSection(SolutionItems) = preProject
+		Ports.txt = Ports.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

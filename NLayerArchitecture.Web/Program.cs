@@ -7,6 +7,7 @@ using NLayerArchitecture.Service.Mapping;
 using NLayerArchitecture.Service.Validations;
 using NLayerArchitecture.Web;
 using NLayerArchitecture.Web.Modules;
+using NLayerArchitecture.Web.Services;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,6 +21,16 @@ builder.Services.AddDbContext<AppDbContext>(x =>
     {
         options.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name);
     });
+});
+
+builder.Services.AddHttpClient<ProductApiService>(opt =>
+{
+    opt.BaseAddress = new Uri(builder.Configuration["BaseUrl"]);
+});
+
+builder.Services.AddHttpClient<CategoryApiService>(opt =>
+{
+    opt.BaseAddress = new Uri(builder.Configuration["BaseUrl"]);
 });
 
 builder.Services.AddScoped(typeof(NotFoundFilter<>));
