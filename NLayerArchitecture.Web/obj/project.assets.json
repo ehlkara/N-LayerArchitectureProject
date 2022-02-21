@@ -9652,6 +9652,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Autofac.Extensions.DependencyInjection >= 7.2.0",
+      "FluentValidation.DependencyInjectionExtensions >= 10.3.6",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.2",
       "NLayerArchitecture.Service >= 1.0.0"
     ]
@@ -9710,6 +9711,10 @@
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[7.2.0, )"
+          },
+          "FluentValidation.DependencyInjectionExtensions": {
+            "target": "Package",
+            "version": "[10.3.6, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
